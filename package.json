@@ -1,0 +1,8 @@
+{
+  "name": "SVG-with-React",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/takahiro-saeki/SVG-with-React.git",
+  "author": "takahiro-saeki <hiroooon69@gmail.com>",
+  "license": "MIT"
+}
